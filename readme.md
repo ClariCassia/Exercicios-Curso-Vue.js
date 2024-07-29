@@ -8,12 +8,6 @@
 <br>
 
 
-<p>Bem-vindo ao repositório de exercícios do curso de Vue.js! Este repositório contém uma coleção de exercícios práticos projetados para complementar e reforçar os conceitos abordados no curso. Desde a configuração inicial do ambiente até o desenvolvimento de aplicações completas, você encontrará atividades que cobrem:</p>
+<p>Bem-vindo ao repositório de exercícios do curso de Vue.js! Este repositório contém uma coleção de exercícios práticos projetados para complementar e reforçar os conceitos abordados no curso. Desde a configuração inicial do ambiente até o desenvolvimento de aplicações completas</p>
 
-<p>Fundamentos do Vue.js: Entenda a sintaxe básica, templates e interação com o DOM.
-Componentes e Formularios: Crie e gerencie componentes, e trabalhe com entradas de usuário.
-Diretivas e Animações: Aprenda sobre diretivas, filtros e como adicionar animações e transições aos seus aplicativos.
-Requisições Ajax e Vuex: Realize requisições Ajax com Axios e gerencie o estado da aplicação com Vuex.
-SPA e MPA: Desenvolva aplicações de uma única página (SPA) e multi páginas (MPA).
-Implantação: Descubra como implantar seus aplicativos na Amazon.
-Os exercícios foram projetados para enfrentar problemas reais e aprimorar suas habilidades com o Vue.js. Perfeito para quem deseja dominar o framework e aplicar o conhecimento em projetos desafiadores. </p>
+<p>Os exercícios foram projetados para enfrentar problemas,reforçar os conceitos aprendidos e desenvolver habilidades práticas na programação com Vue.js. </p>
