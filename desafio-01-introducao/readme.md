@@ -1,0 +1,2 @@
+Este projeto é um exercício introdutório do curso de Vue.js. Ele demonstra funcionalidades básicas como interpolação de dados, operações matemáticas, exibição de um número aleatório, binding de atributos de imagem e inicialização de campos de input.
+  
