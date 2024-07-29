@@ -1,0 +1,1 @@
+Este projeto é um exercício introdutório do curso de Vue.js. Ele demonstra como lidar com eventos de clique e teclado
